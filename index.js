@@ -882,3 +882,5 @@ function gaRepport(CLIENT_ID) {
 
   return { signIn, isSignedIn, runReport, signOut, loadClient };
 }
+
+export default gaRepport;
