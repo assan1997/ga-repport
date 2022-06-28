@@ -1,0 +1,24 @@
+{
+  "name": "ga-repport",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "@assan1997:registry" : "https://npm.pkg.github.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assan1997/ga-repport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/assan1997/ga-repport/issues"
+  },
+  "homepage": "https://github.com/assan1997/ga-repport#readme"
+}
