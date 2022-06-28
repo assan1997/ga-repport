@@ -87,11 +87,4 @@ function getCookie(cname) {
   return '';
 }
 
-export {
-  signIn,
-  runReport,
-  isSignedIn,
-  runReport,
-  signOut,
-  loadClient,
-};
+export { signIn, isSignedIn, runReport, signOut, loadClient };
