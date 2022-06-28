@@ -1,7 +1,7 @@
 {
-  "name": "ga-repport",
+  "name": "@assan1997/ga-repport",
   "version": "1.0.0",
-  "description": "",
+  "description": "Google Aanalytics Api Implementation ",
   "main": "index.js",
   "type": "module",
   "scripts": {
